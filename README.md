@@ -4,8 +4,7 @@ Jerrick Wu is a current 11th grader attending Whitney High School. Dedicated to 
 
 ### Activities
 
-Key Club - Secretary '21 - '22
-Secretaries are responsible for logging all hours, keeping a detailed form with monthly club information and statistics, taking detailed minutes at meetings, while bring a role model for all Key Clubbers at Whitney.
+Key Club - Secretary '21 - '22  Secretaries are responsible for logging all hours, keeping a detailed form with monthly club information and statistics, taking detailed minutes at meetings, while bring a role model for all Key Clubbers at Whitney.
 
 FBLA - Director of Competitions '21 - '22
 FBLA's Director of Competitions is responsible for finding intresting competitions for members to particpate in, sign-up for the school chapter, while taking part in planning and organizing events and general meetings.
