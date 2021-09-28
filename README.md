@@ -1,8 +1,6 @@
 ## This is the official site for Jerrick Wu
 
-You can use the [editor on GitHub](https://github.com/jerrickwu7/personalproject/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Jerrick Wu is a current 11th grader attending Whitney High School. Dedicated to receiving an education, he has a passion for learning both in and out of the classroom. Taking advanced courses while committed to extraciriculars, he hopes to pursue an eventual career in the business and finance field.
 
 ### Markdown
 
