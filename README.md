@@ -16,7 +16,7 @@ CSF - Treasurer '21 - '22
 
 The role of the treasurer includes rasing funds for club expenses, hosting fundraisers, keeping a detailed treasury, ordering and selling club shirts, and providing rewards for quarterly competitions.
 
-!
+![FBLA Logo](https://i1.wp.com/www.fbla-pbl.org/media/2021/07/FBLA-square.jpg?resize=300%2C300&ssl=1)
 
 ### About Me
 
@@ -26,5 +26,5 @@ I also really enjoy hanging out with friends and listening to music!
 
 In 7th Grdae, in a 20Time project, I have also made an entire website dedicated to helping incoming students at Whitney High School feel welcomed and comforatble around the school. This was called Operation: Chaperone Whitney and the website I created is linked here: [Link](http://operationchaperonewhitney.weebly.com/)
 
-
+![Whitney High School](https://i2.wp.com/highschool.latimes.com/wp-content/uploads/2018/05/best-high-schools-whitney-high-school_onwe4k.jpg?fit=2560%2C1707&ssl=1)
 
