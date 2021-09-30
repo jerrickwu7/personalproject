@@ -16,6 +16,8 @@ CSF - Treasurer '21 - '22
 
 The role of the treasurer includes rasing funds for club expenses, hosting fundraisers, keeping a detailed treasury, ordering and selling club shirts, and providing rewards for quarterly competitions.
 
+!
+
 ### About Me
 
 From the age of 5, I have had a passion for playing basketball. Playing on an outside team, my school's middle school team, and now my high school team. However, beyond playing, I have also wanted to foster new generations of ball players. As a result, I have volunteered every Sunday to coach rascals different fundementals all from the place I first learned to play.
