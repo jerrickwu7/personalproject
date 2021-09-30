@@ -16,30 +16,13 @@ CSF - Treasurer '21 - '22
 
 The role of the treasurer includes rasing funds for club expenses, hosting fundraisers, keeping a detailed treasury, ordering and selling club shirts, and providing rewards for quarterly competitions.
 
-```markdown
-Syntax highlighted code block
+### About Me
 
-# Header 1
-## Header 2
-### Header 3
+From the age of 5, I have had a passion for playing basketball. Playing on an outside team, my school's middle school team, and now my high school team. However, beyond playing, I have also wanted to foster new generations of ball players. As a result, I have volunteered every Sunday to coach rascals different fundementals all from the place I first learned to play.
 
-- Bulleted
-- List
+I also really enjoy hanging out with friends and listening to music!
 
-1. Numbered
-2. List
+In 7th Grdae, in a 20Time project, I have also made an entire website dedicated to helping incoming students at Whitney High School feel welcomed and comforatble around the school. This was called Operation: Chaperone Whitney and the website I created is linked here: [Link](http://operationchaperonewhitney.weebly.com/)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerrickwu7/personalproject/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
